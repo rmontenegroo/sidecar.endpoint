@@ -1,4 +1,5 @@
 setuptools
+plone.app.caching
 
 [tests]
 zope.testing
