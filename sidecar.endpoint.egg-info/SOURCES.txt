@@ -1,3 +1,6 @@
+CHANGES.txt
+CONTRIBUTORS.txt
+LICENSE
 MANIFEST.in
 README.md
 setup.cfg
